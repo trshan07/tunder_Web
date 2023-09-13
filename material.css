@@ -1,0 +1,56 @@
+section{
+    max-width: 90%;
+    margin: 0 auto;
+ }
+ 
+ .nav-bar{
+     background-color: white;
+ }
+ 
+ li a {
+     color: #146A05;
+     margin-right: 30px;
+     font-size: 18px;
+ }
+ 
+ li a:hover{
+     color:#B1E7A8;
+ }
+ 
+ .float-lefts{
+     float:left;
+     width: 50%;
+ }
+ 
+ .navbar .float-rights{
+     float:right;
+     width: 50%;
+    
+ }
+ .cash{
+     text-align: center;
+ }
+ 
+ .cash1{
+     text-align: center;
+   
+ }
+ 
+ .cash-word{
+     max-width: 40%;
+     margin: 0 auto;
+ }
+ 
+ .qrcode{
+     width:80px;
+     height: 80px;
+     margin-top: 15px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ .qr1{
+     text-align: center;
+     margin-top: 10px;
+ }

@@ -1,0 +1,117 @@
+section{
+   max-width: 90%;
+   margin: 0 auto;
+}
+
+.nav-bar{
+    background-color: white;
+}
+
+li a {
+    color: #146A05;
+    margin-right: 30px;
+    font-size: 18px;
+}
+
+li a:hover{
+    color:#B1E7A8;
+}
+
+.float-lefts{
+    float:left;
+    width: 50%;
+}
+
+.navbar .float-rights{
+    float:right;
+    width: 50%;
+   
+}
+.cash{
+    text-align: center;
+}
+
+.cash1{
+    text-align: center;
+  
+}
+
+.cash-word{
+    max-width: 40%;
+    margin: 0 auto;
+}
+
+.qrcode{
+    width:80px;
+    height: 80px;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qr1{
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*.googleplay{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+
+.appstore{
+    
+    width: 25%;
+    height: 15%;
+}
+
+.appDown{
+    display: flex;
+   justify-content: center;
+}
+
+.Synchronize{
+    text-align: center;
+}
+
+.Synchronize_1 {
+    text-align: center;
+}
+
+.image_6 img {
+align-items: center;
+}
+
+.features{
+    text-align: center;
+}
+
+.Equipment {
+    text-align: center;
+}
+.img-fluid-1 {
+    width: 100%;
+}
+
+.img-fluid-2{
+    margin: 20px;
+    padding: 50px;
+   align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+/* footer css */
+
+.footer {
+    background-color: #055a4a;
+    border-top: 1px solid #d5d9e0;
+    padding-top: 59px;
+    padding-bottom: 29px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2;
+}
